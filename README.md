@@ -41,7 +41,7 @@ Technologies Used:
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP, MySQL
 - Web Server: XAMPP (Apache)
-- Payment Gateway Integration: PayPal, Stripe, etc.
+
 
 The Fruit Bazaar E-commerce website provides a seamless experience for both buyers and sellers, offering a wide range of fruits and facilitating smooth transactions. It emphasizes security, user-friendliness, and efficient management, making it an attractive option for fruit enthusiasts and vendors in the market.
 
